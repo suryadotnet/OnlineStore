@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{E7862B70-9E4D-430C-B647-4B5BE82B8BD3}|https" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.OnlineStore.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OnlineStore.Domain/Models/User.cs">
+    <Files>
+      <File FileName="OnlineStore.API/OnlineStore.API.http" />
+      <File FileName="OnlineStore.API/appsettings.json" />
+      <File FileName="OnlineStore.API/Controllers/UserController.cs" />
+      <File FileName="OnlineStore.Application/Interfaces/IUserRepository.cs" />
+      <File FileName="OnlineStore.Application/Repositories/UserRepository.cs" />
+      <File FileName="OnlineStore.Domain/Models/User.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OnlineStore" selected="True">
+            <Node name="OnlineStore.Domain" expanded="True">
+              <Node name="Models" expanded="True" />
+            </Node>
+            <Node name="OnlineStore.Infrastructure" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
